@@ -70,7 +70,7 @@ export default function App() {
                   className="max-h-full max-w-full object-contain"
                 />
               </div>
-             
+
               <div className="p-4">
                 <h3 className="text-sm font-semibold leading-snug mb-2 line-clamp-2">
                   {item.title}
