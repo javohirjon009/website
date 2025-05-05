@@ -63,7 +63,7 @@ export default function App() {
               key={item.id}
               className="bg-white rounded-lg overflow-hidden shadow"
             >
-              <div className="h-48 bg-gray-200 flex justify-center items-center">
+              <div className="h-48 flex justify-center items-center">
                 <img
                   src={item.image}
                   alt={item.title}
