@@ -70,11 +70,7 @@ export default function App() {
                   className="max-h-full max-w-full object-contain"
                 />
               </div>
-              <div className="px-2 -mt-4">
-                <span className="bg-white text-xs px-2 py-1 rounded shadow text-gray-600">
-                  {item.category}
-                </span>
-              </div>
+             
               <div className="p-4">
                 <h3 className="text-sm font-semibold leading-snug mb-2 line-clamp-2">
                   {item.title}
